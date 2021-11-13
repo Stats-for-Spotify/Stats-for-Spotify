@@ -1,6 +1,3 @@
-Original App Design Project - README Template
-===
-
 # Stats for Spotify
 
 ## Table of Contents
@@ -14,13 +11,13 @@ Original App Design Project - README Template
 An app to view a users personal Spotify stats through the use of the official Spotify API. 
 
 ### App Evaluation
-
-- **Category: Music Stats**
-- **Mobile: iOS**
-- **Story: N/A**
-- **Market: Spotify Users**
-- **Habit: People who listen to music**
-- **Scope: Also Spotify Users**
+[Evaluation of your app across the following attributes]
+- **Category:** Music
+- **Mobile:** App would be created for mobile devices but can *potentially* be made for use on a cpmputer as well.
+- **Story:** Tells a Spotify user what their person stats are including but not limited to: most played tracks, most played artist, etc. .
+- **Market:** Spotify Users
+- **Habit:** This app can be used whenever the user wants to know their stats.
+- **Scope:** First we want to provide a few basic stats that we find to be the most popular or most interesting for a Spotify user. There is potential for us to be able to add in extra stats depending on what the official Spotify API allows for and what user feedback we recieve.
 
 ## Product Spec
 
@@ -60,18 +57,19 @@ An app to view a users personal Spotify stats through the use of the official Sp
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
-*N/A
+* Login Screen
+* Stats Screen
 
 
 **Flow Navigation** (Screen to Screen)
 
-* Login Screen
-    * Main Screen
+* Force user to login via Spotify authentication -> Stats page
 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+![](https://i.imgur.com/yuQ5ZFp.jpg)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
