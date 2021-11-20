@@ -76,10 +76,33 @@ An app to view a users personal Spotify stats through the use of the official Sp
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+
+| Property | Type | Description |
+| -------- | -------- | -------- |
+| artist     | String     |Artist of a given song  
+| song    | String     | Name of a given song 
+| tPlayed | int| Time played for a given song
+mPlayedSongs |Array | List of most played songs
+mPlayedArtists | Array | List of most played artists
+artist1 | String| #1 played artist
+song1 | String | #1 played song
+genre | String| #1 played genre
+cover |File |cover photo of song
+userName| String|users Spotify username
+
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+Base URL: https://developer.spotify.com/documentation/web-api/reference/#/
+| HTTP Verb | Endpoint | Description |
+| -------- | -------- | -------- |
+| GET| /me/top/artists | Users top artists
+GET| /me/type/tracks | Users top songs
+GET| /time_range | Time played
+GET| /display_name | Users Spotify username
+GET| /album/images | Cover photo for specific song
+GET | /album/name | Name of song
+GET | /album/artists | Artist of song
+GET | /album/genres | Genre of specific song
+
+
