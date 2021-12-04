@@ -24,14 +24,16 @@ An app to view a users personal Spotify stats through the use of the official Sp
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
+- [x] Login through Spotify(includes Spotify authorization)
+* ![ezgif com-video-to-gif-7](https://user-images.githubusercontent.com/87163477/144690765-31d8d043-d199-48d3-af55-74072d178313.gif)
 
-* Login through Spotify(includes Spotify authorization)
-* #1 played song
-* List of most played songs
-* #1 played artist
-    * Most songs by that arist
-* List of most played artists
-* Genres(pop edm rock)
+- [ ] #1 played song
+- [ ] List of most played songs
+- [ ] #1 played artist
+    - [ ] Most songs by that arist
+- [ ] List of most played artists
+- [ ] Genres(pop edm rock)
+
 
 
 **Optional Nice-to-have Stories**
