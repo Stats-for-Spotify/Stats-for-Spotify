@@ -27,13 +27,14 @@ An app to view a users personal Spotify stats through the use of the official Sp
 - [x] Login through Spotify(includes Spotify authorization)
 * ![ezgif com-video-to-gif-7](https://user-images.githubusercontent.com/87163477/144690765-31d8d043-d199-48d3-af55-74072d178313.gif)
 
-- [ ] #1 played song
-- [ ] List of most played songs
-- [ ] #1 played artist
+- [x] #1 played song
+- [x] List of most played songs
+- [x] #1 played artist
     - [ ] Most songs by that arist
 - [ ] List of most played artists
 - [ ] Genres(pop edm rock)
 
+* ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87163477/146608088-3dff9c5c-9bb4-4483-80e8-a44c490dc7aa.gif)
 
 
 **Optional Nice-to-have Stories**
